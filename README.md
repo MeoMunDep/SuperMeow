@@ -38,16 +38,13 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
-  "doTasks": true,
-  "playGames": true,
-  "referralCode": "" // Do not change it if you want to support me ^^
+  "doTasks": true
 }
 ```
 
@@ -60,6 +57,8 @@ query_id.../user...
 ```
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
+- [Get it from here](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+
 
 ```txt - wallet address
 abc...xyz
